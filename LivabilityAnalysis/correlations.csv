@@ -1,0 +1,9 @@
+,Correlation coefficient,p value
+LivabilityScore,-0.569566153,3.89E-46
+Housing,0.503829487,6.90E-35
+Neighborhood,-0.365382953,6.71E-18
+Transportation,-0.125069433,0.004247909
+Environment,-0.316060661,1.50E-13
+Health,-0.748995664,7.76E-95
+Engagement,0.01952557,0.656571737
+Opportunity,-0.585238565,3.30E-49
